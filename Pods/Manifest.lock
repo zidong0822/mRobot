@@ -1,0 +1,22 @@
+PODS:
+  - IQKeyboardManagerSwift (4.0.2)
+  - JGProgressHUD (1.3.2)
+  - RZTransitions (1.2.1)
+  - SMSegmentView (1.1)
+  - TabPageViewController (0.1.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - RZTransitions
+  - SMSegmentView (~> 1.1)
+  - TabPageViewController
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 2f2c19c509f67c4c0df2826db54033d3e090ce65
+  JGProgressHUD: ccac0ead9b771eac0ebcc2b0800efd7f1e1784dc
+  RZTransitions: 0e0013fda6989ee84dc5e44dca79fd539e1a975a
+  SMSegmentView: a99862f36ea73478558ae665c209cb80c0d4f059
+  TabPageViewController: 10fa70daf5d743127cadfd9ef9b3c1354a54c57c
+
+COCOAPODS: 0.39.0
